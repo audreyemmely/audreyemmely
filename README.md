@@ -1,13 +1,8 @@
 <img src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Audrey</h2>
 
 
-
+<br/>
 <!--
-**audreyemmely/audreyemmely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
@@ -37,5 +32,8 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=audreyemmely&color=blueviolet" align="left">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=audreyemmely&show_icons=true&theme=nightowl" alt="audreyemmely" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=audreyemmely&layout=compact&theme=nightowl" alt="audreyemmely" /></p>

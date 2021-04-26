@@ -1,5 +1,5 @@
 <img src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Audrey</h2>
-
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/audreyemmely) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/audrey-vasconcelos) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/audreyemmely)
 <img src="https://komarev.com/ghpvc/?username=audreyemmely&color=blueviolet" align="left">
 
 <br/>

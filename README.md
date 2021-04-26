@@ -1,5 +1,6 @@
 <img src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Audrey</h2>
 
+<img src="https://komarev.com/ghpvc/?username=audreyemmely&color=blueviolet" align="left">
 
 <br/>
 <!--

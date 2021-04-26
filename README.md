@@ -1,16 +1,15 @@
 <img src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Audrey</h2>
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/audreyemmely) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/audrey-vasconcelos) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/audreyemmely)
+
 <img src="https://komarev.com/ghpvc/?username=audreyemmely&color=blueviolet" align="left">
 
 <br/>
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on a [IARA/IANE Networks](https://fbln.me/ia-ne/overview/) project where the main objective is to make a diagnosis of the network of researchers in the research group
+- 🌱 I’m currently learning graphs
+- 💬 Ask me about data science
+- 😄 In my free time, I like to watch movies and series
+
 
 ### 🛠️ Tech Stack:
 
@@ -35,6 +34,9 @@
 
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=audreyemmely&show_icons=true&theme=midnight-purple" alt="audreyemmely" /></p>
+<details>
+    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=audreyemmely&layout=compact&theme=midnight-purple" alt="audreyemmely" /></p>
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=audreyemmely&show_icons=true&theme=midnight-purple)](https://github.com/audreyemmely/github-readme-stats) [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=audreyemmely&layout=compact&theme=midnight-purple)](https://github.com/audreyemmely/github-readme-stats)
+
+</details>

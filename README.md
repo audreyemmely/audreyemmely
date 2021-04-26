@@ -3,8 +3,6 @@ I'm a undergraduate student in Computer Science at the Federal University of Ala
 <br />
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/audreyemmely) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/audrey-vasconcelos) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/audreyemmely)
-
-<br />
 <br />
 
 - 👩🏻‍💻 I’m currently working on a [IARA/IANE Networks](https://fbln.me/ia-ne/overview/) project where the main objective is to make a diagnosis of the network of researchers in the research group

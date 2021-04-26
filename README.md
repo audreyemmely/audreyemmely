@@ -37,6 +37,6 @@
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=audreyemmely&show_icons=true&theme=midnight-purple)](https://github.com/audreyemmely/github-readme-stats) [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=audreyemmely&layout=compact&theme=midnight-purple)](https://github.com/audreyemmely/github-readme-stats)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=audreyemmely&show_icons=true&theme=midnight-purple)](https://github.com/audreyemmely) [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=audreyemmely&layout=compact&theme=midnight-purple)](https://github.com/audreyemmely)
 
 </details>

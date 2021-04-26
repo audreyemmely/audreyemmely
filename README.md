@@ -3,7 +3,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=audreyemmely&color=blueviolet" align="left">
 
-<br/>
+
+<br />
+<br />
 
 - 🔭 I’m currently working on a [IARA/IANE Networks](https://fbln.me/ia-ne/overview/) project where the main objective is to make a diagnosis of the network of researchers in the research group
 - 🌱 I’m currently learning graphs
@@ -32,7 +34,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
-<br/>
+<br />
 
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>

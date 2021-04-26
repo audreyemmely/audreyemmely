@@ -4,9 +4,6 @@ I'm a undergraduate student in Computer Science at the Federal University of Ala
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/audreyemmely) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/audrey-vasconcelos) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/audreyemmely)
 
-<img src="https://komarev.com/ghpvc/?username=audreyemmely&color=blueviolet" align="left">
-
-
 <br />
 <br />
 
@@ -44,4 +41,5 @@ I'm a undergraduate student in Computer Science at the Federal University of Ala
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=audreyemmely&show_icons=true&theme=midnight-purple)](https://github.com/audreyemmely) [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=audreyemmely&layout=compact&theme=midnight-purple)](https://github.com/audreyemmely)
 
+<img src="https://komarev.com/ghpvc/?username=audreyemmely&color=blueviolet" align="left">
 </details>

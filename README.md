@@ -10,7 +10,7 @@ I am currently a research fellow in a technological development project whose ob
 - 👩🏻‍💻 I’m currently working on a [IARA/IANE Networks](https://fbln.me/ia-ne/overview/) project where the main objective is to make a diagnosis of the network of researchers in the research group
 - 🌱 I’m currently learning graphs
 - 💬 Ask me about data science
-- 😄 In my free time, I like to watch movies and series
+- 😄 In my free time, I like to watch movies and tv shows
 
 
 ### 🛠️ Tech Stack:

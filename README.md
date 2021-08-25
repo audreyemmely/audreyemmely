@@ -6,7 +6,7 @@ I'm a Computer Science student at the Federal University of Alagoas, with great 
 <br />
 
 - 👩🏻‍💻 I’m currently a research fellow in a technological development project whose objective is to implement techniques and mechanisms for analysis and data mining to introduce data-driven management in each of the areas of SESI/SENAI, significantly minimizing problems and facilitating decision-making.
-- 🌱 I’m currently learning Google BERT
+- 🌱 I’m currently learning Power BI
 - 💬 Ask me about data science
 - 😄 In my free time, I like to watch movies and tv shows
 

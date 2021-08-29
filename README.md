@@ -28,6 +28,8 @@ I'm a Computer Science student at the Federal University of Alagoas, with intere
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
 ![RStudio](https://img.shields.io/badge/-RStudio-black?style=flat-square&logo=rstudio)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visual-studio-code)
+![Anaconda](https://img.shields.io/badge/-Anaconda-black?style=flat-square&logo=anaconda)
+![PowerBI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=powerbi)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)

@@ -43,3 +43,5 @@ I'm a Computer Science student at the Federal University of Alagoas, with intere
 
 <img src="https://komarev.com/ghpvc/?username=audreyemmely&color=blueviolet" align="left">
 </details>
+
+![Alt text](https://media1.giphy.com/media/E1Kd3pQwrsMtQbNkt0/giphy.gif?cid=ecf05e47drf4ebxspr1b03gzwxcampoof1sp764wtonibo2u&rid=giphy.gif&ct=g)

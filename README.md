@@ -35,10 +35,6 @@ I'm a Computer Science student at the Federal University of Alagoas, with intere
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 
- ### :dart: GitHub Stats
-
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=audreyemmely&show_icons=true&theme=midnight-purple)](https://github.com/audreyemmely) [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=audreyemmely&layout=compact&theme=midnight-purple)](https://github.com/audreyemmely)
-
 <img src="https://komarev.com/ghpvc/?username=audreyemmely&color=blueviolet" align="left">
 
 

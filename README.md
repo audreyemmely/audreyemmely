@@ -2,7 +2,7 @@
 I'm a Computer Science student at the Federal University of Alagoas, with interest in the areas of Artificial Intelligence and Data Science. Member of the research group Mathematics, Education and Technology ([MATEDTEC](https://www.instagram.com/matedtec_im/)). Voluntary tutor of the Data Science course, offered to the Computer Science and Computer Engineering courses.
 <br />
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/audreyemmely) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/audrey-vasconcelos) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/audreyemmely)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/audrey-vasconcelos) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/audreyemmely)
 <br />
 
 - 👩🏻‍💻 I’m currently a research fellow in a technological development project whose objective is to implement techniques and mechanisms for analysis and data mining to introduce data-driven management in each of the areas of SESI/SENAI, significantly minimizing problems and facilitating decision-making.

@@ -7,7 +7,7 @@ I'm a Computer Science student at Federal University of Alagoas. Member of the r
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/audreyemmely)
 <br />
 
-- 👩🏻‍💻 I’m currently a research fellow in a technological development project whose objective is to implement techniques and mechanisms for analysis and data mining to introduce data-driven management in each of the areas of SESI/SENAI, significantly minimizing problems and facilitating decision-making.
+- 👩🏻‍💻 I’m currently a Junior Data Engineer at Learning Machine and a research fellow in a technological development project whose objective is to implement techniques and mechanisms for analysis and data mining to introduce data-driven management in each of the areas of SESI/SENAI, significantly minimizing problems and facilitating decision-making.
 - 🌱 I’m currently learning Data Engineering concepts
 - 💬 Ask me about data engineering, data science or data analysis
 - 😄 In my free time, I like to watch movies and tv shows

@@ -1,5 +1,5 @@
 <img src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Audrey</h2>
-I'm a Computer Science student at Federal University of Alagoas. Member of the research group Mathematics, Education and Technology ([MATEDTEC](https://www.instagram.com/matedtec_im/)). Voluntary tutor of the Data Science course, offered to the Computer Science and Computer Engineering courses.
+I'm a Computer Scientist.
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/audrey-vasconcelos) 

@@ -1,5 +1,5 @@
 <img src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Audrey</h2>
-I'm a Computer Scientist.
+I am a Computer Scientist, currently I'm a master's student at Federal University of Alagoas, in the research line of responsible artificial intelligence.
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/audrey-vasconcelos) 

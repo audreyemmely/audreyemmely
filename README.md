@@ -7,7 +7,7 @@ I am a Computer Scientist, currently I'm a master's student at Federal Universit
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/audreyemmely)
 <br />
 
-- 👩🏻‍💻 I’m currently a Mid-Level Data Engineer working at SENAI through Mesha to implement data management strategies in various regional departments. Responsible for developing and implementing data warehousing solutions that ensure efficient organization and access to business data, providing a solid basis for strategic decision-making in each region.
+- 👩🏻‍💻 I’m currently a Mid-Level Data Engineer working at FIEMT through Mesha to implement data management strategies in various regional departments. Responsible for developing and implementing data warehousing solutions that ensure efficient organization and access to business data, providing a solid basis for strategic decision-making in each region.
 - 🌱 I’m currently learning Data Engineering concepts
 - 💬 Ask me about data engineering, data science or data analysis
 - 😄 In my free time, I like to watch movies and tv shows

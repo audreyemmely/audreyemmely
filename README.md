@@ -9,7 +9,7 @@ I am a Computer Scientist, currently I'm a master's student at Federal Universit
 
 - 👩🏻‍💻 I’m currently a Mid-Level Data Engineer working at FIEMT through Mesha to implement data management strategies. Responsible for developing and implementing data warehousing solutions that ensure efficient organization and access to business data, providing a solid basis for strategic decision-making in each region.
 - 🌱 I’m currently learning Data Engineering concepts
-- 💬 Ask me about data engineering, data science or data analysis
+- 💬 Ask me about data engineering
 - 😄 In my free time, I like to watch movies and tv shows
 
 

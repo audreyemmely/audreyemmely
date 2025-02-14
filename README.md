@@ -7,7 +7,7 @@ I am a Computer Scientist, currently I'm a master's student at Federal Universit
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/audreyemmely)
 <br />
 
-- 👩🏻‍💻 I’m currently a Mid-Level Data Engineer working at FIEMT through Mesha to implement data management strategies. Responsible for developing and implementing data warehousing solutions that ensure efficient organization and access to business data, providing a solid basis for strategic decision-making.
+- 👩🏻‍💻 I’m currently a Mid-Level Data Engineer working at CNI through Mesha to implement data management strategies. Responsible for developing and implementing data warehousing solutions that ensure efficient organization and access to business data, providing a solid basis for strategic decision-making.
 - 🌱 I’m currently learning Delta lake, Apache Hive and Trino concepts
 - 💬 Ask me about data engineering
 - 😄 In my free time, I like to watch movies and tv shows
